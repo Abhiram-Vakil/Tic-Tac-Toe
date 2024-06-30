@@ -1,3 +1,5 @@
+
+
 *{
     margin: 0;
     padding: 0;
@@ -34,9 +36,11 @@ body{
     box-shadow:0 0 1rem rgba(0,0,0,0.3);
     font-size: 8vmin;
     color: #DBFCFF;
+    font-family: "Raleway", sans-serif;;
 }
 
 #resetButton{
+    font-family: "Playwrite ES Deco", cursive;
     padding: 1rem;
     font-size: 1.5rem;
     background-color:#A6CFD5 ;
@@ -57,4 +61,13 @@ body{
 #msg{
     padding-top: 10vmin;
     font-size: 6vmin;
+}
+
+h1{
+    padding-top: 20px;
+    font-family: "Playwrite ES Deco", cursive;
+}
+p{
+    font-family: "Playwrite ES Deco", cursive;
+    color: white;
 }
